@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="nolimet" id="e44ad8e6-3246-4fe5-93e8-3d8f46fa162b">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
